@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"sensorSmall","<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<tileset version=\"1.10\" tiledversion=\"1.10.2\" name=\"sensorSmall\" tilewidth=\"16\" tileheight=\"16\" tilecount=\"1\" columns=\"1\">\n <image source=\"sensorSmall.png\" width=\"16\" height=\"16\"/>\n</tileset>\n"]],0,0,[],[],[]]
